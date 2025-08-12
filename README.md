@@ -29,9 +29,8 @@ my_shop.checkOut(customer1)
 my_shop.orderTracking(customer1, order_id)
 
 ### ⚙️ วิธีการใช้งาน ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
-ดาวน์โหลดหรือ Clone โปรเจกต์:
-git clone https://github.com/your-username/online-shop-simulation.git
-cd online-shop-simulation
+ดาวน์โหลดหรือ Clone โปรเจกต์: 
+git clone https://github.com/yoyoa23/online-shop-system.git
 รันแต่ละไฟล์:
 python version1_basic.py
 python version2_oop.py
